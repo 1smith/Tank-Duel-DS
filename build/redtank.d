@@ -1,0 +1,1 @@
+redtank.o: redtank.s

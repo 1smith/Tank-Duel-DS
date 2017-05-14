@@ -1,0 +1,1 @@
+subspawn.o: subspawn.s

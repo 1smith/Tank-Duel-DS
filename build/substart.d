@@ -1,0 +1,1 @@
+substart.o: substart.s

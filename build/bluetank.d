@@ -1,0 +1,1 @@
+bluetank.o: bluetank.s

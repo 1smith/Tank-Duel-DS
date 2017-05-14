@@ -1,0 +1,1 @@
+bluemapTank.o: bluemapTank.s

@@ -1,0 +1,1 @@
+spawn.o: spawn.s

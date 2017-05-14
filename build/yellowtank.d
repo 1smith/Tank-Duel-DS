@@ -1,0 +1,1 @@
+yellowtank.o: yellowtank.s
